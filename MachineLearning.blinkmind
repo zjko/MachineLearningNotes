@@ -1,0 +1,1847 @@
+{
+  "rootTopicKey": "48409f63-9ea0-4a43-acb7-8021e3b6a4c0",
+  "editorRootTopicKey": "48409f63-9ea0-4a43-acb7-8021e3b6a4c0",
+  "focusKey": "23318e79-fea0-4257-84a2-5ee7e9e7a50c",
+  "extData": {
+    "TOPIC_REFERENCE": {
+      "reference": {}
+    }
+  },
+  "topics": [
+    {
+      "key": "feab1563-2825-441d-b8e9-4093e829e235",
+      "parentKey": "25f972fd-d954-4fb5-8577-594a0dc0e22b",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "个体与集成"
+        }
+      ]
+    },
+    {
+      "key": "b3281230-688c-4070-877d-3ddf0558f9de",
+      "parentKey": "6a9e1d16-2b9d-40b1-9cd4-c2bb1b601ac3",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "隐马尔可夫模型"
+        }
+      ]
+    },
+    {
+      "key": "792414ee-acfb-4a33-8e2c-85d1796a2a13",
+      "parentKey": "01de61f9-c661-4a08-b727-719a50f65580",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "类别不平衡问题"
+        }
+      ]
+    },
+    {
+      "key": "c56f48d9-e27b-4806-84c6-e24ff1e47bed",
+      "parentKey": "804243ff-dce8-459d-9f88-ce7a78893867",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "划分选择"
+        }
+      ]
+    },
+    {
+      "key": "16431b06-32f3-4a55-9c6c-e660469322d9",
+      "parentKey": "48409f63-9ea0-4a43-acb7-8021e3b6a4c0",
+      "subKeys": [
+        "7d6de599-9279-4d64-aa0d-9f1d92e6affa",
+        "e03a66f9-3be3-466b-a36f-bb4436007bb7",
+        "a0140ac2-61d9-4183-bbab-c0c7ce4db10f",
+        "167fefaf-1a97-4f4b-a423-7cb2fbb4ffcc"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "1. Introduction"
+        },
+        {
+          "type": "DESC",
+          "data": "绪论"
+        }
+      ]
+    },
+    {
+      "key": "df8a0ba9-8099-40ff-a89c-7acd33cfee50",
+      "parentKey": "b3e9e106-ecc1-4c0c-a2a3-5e3c74900b13",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "其他常见神经网络"
+        }
+      ]
+    },
+    {
+      "key": "23318e79-fea0-4257-84a2-5ee7e9e7a50c",
+      "parentKey": "a88a28e6-4bd0-4a22-8429-63f92beeec9f",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "阅读材料"
+        }
+      ]
+    },
+    {
+      "key": "0355d8db-9438-4e6b-a79f-55505ab5b957",
+      "parentKey": "48409f63-9ea0-4a43-acb7-8021e3b6a4c0",
+      "subKeys": [
+        "996d4d3e-7a9a-4a23-b813-95d6df41fcd4",
+        "6c34c6f5-91fc-4dff-8a0e-b3f8de0753f7",
+        "c2c4b2ad-e677-4136-a3ea-de36ce4b79fd",
+        "48ebdd48-f38d-4edf-8a59-5b618e660352",
+        "96ab2887-b9f7-440d-8158-0a7de7406d00",
+        "f660268f-fb10-425d-81c1-469bfec0b511"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "2. Module evaluation and selection"
+        },
+        {
+          "type": "DESC",
+          "data": "模型评估与选择"
+        }
+      ]
+    },
+    {
+      "key": "01de61f9-c661-4a08-b727-719a50f65580",
+      "parentKey": "48409f63-9ea0-4a43-acb7-8021e3b6a4c0",
+      "subKeys": [
+        "4ece09c4-b887-48c9-829a-eb3b585feeba",
+        "839f9cd3-ebf8-4786-bb53-f63f68702b9a",
+        "b6b274ad-3162-46bf-b4ac-6b0e046d24cd",
+        "ab86be03-e6c1-4e49-9389-b80ecc921d40",
+        "044699ab-2d89-49fa-ac83-763800fbf339",
+        "792414ee-acfb-4a33-8e2c-85d1796a2a13",
+        "0531603a-7f79-4bce-b84c-6ffc4c863ae6"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "3. Linear Module"
+        },
+        {
+          "type": "DESC",
+          "data": "线性模型"
+        }
+      ]
+    },
+    {
+      "key": "167fefaf-1a97-4f4b-a423-7cb2fbb4ffcc",
+      "parentKey": "16431b06-32f3-4a55-9c6c-e660469322d9",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "应用现状"
+        }
+      ]
+    },
+    {
+      "key": "14d4901f-3aad-4b60-b3e1-682b2b645b40",
+      "parentKey": "89efaf18-9030-438a-8cc8-56e68d5d031e",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "聚类任务"
+        }
+      ]
+    },
+    {
+      "key": "baf44da6-0964-4067-b14d-1159f480c3ed",
+      "parentKey": "804243ff-dce8-459d-9f88-ce7a78893867",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "多变量决策树"
+        }
+      ]
+    },
+    {
+      "key": "9f138de9-d64b-4405-a7ea-01c71924f7f6",
+      "parentKey": "d808a0c3-8684-46b2-9e37-df2d81b8dc70",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "未标记样本"
+        }
+      ]
+    },
+    {
+      "key": "b536d576-4ae2-4e8f-8e43-399a9cb70e45",
+      "parentKey": "13e91cd8-08d6-4762-91c6-e5ee0d9c927e",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "阅读材料"
+        }
+      ]
+    },
+    {
+      "key": "71a62dfa-a84c-44d9-a90f-e7baba26b2ce",
+      "parentKey": "b3e9e106-ecc1-4c0c-a2a3-5e3c74900b13",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "阅读材料"
+        }
+      ]
+    },
+    {
+      "key": "1aa1a1cc-90e7-4813-8035-786c983924fa",
+      "parentKey": "f8dc10a8-0a53-4291-9b51-58edf1eea730",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "剪枝优化"
+        }
+      ]
+    },
+    {
+      "key": "55f5a6e7-d89a-4e2e-93ca-f399f73254ab",
+      "parentKey": "27c68b98-c522-4be2-8352-0fdb37afaf28",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "VC纬"
+        }
+      ]
+    },
+    {
+      "key": "b8dec9ce-dc4c-459b-8bab-3b3bb1dd07b2",
+      "parentKey": "b3e9e106-ecc1-4c0c-a2a3-5e3c74900b13",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "误差逆传播算法"
+        }
+      ]
+    },
+    {
+      "key": "3ee3b20b-a64f-4475-b508-dc197bdc141c",
+      "parentKey": "48409f63-9ea0-4a43-acb7-8021e3b6a4c0",
+      "subKeys": [
+        "68bac692-8dfb-4bfd-b104-bcfe0d0adef7",
+        "36d8c955-1173-46da-9c36-c1cdc2a10afb",
+        "01961a7b-a297-4b10-a8a9-7d3a1bac1e86",
+        "f05a22a1-c74e-4e4e-b987-27c78f583b6e",
+        "49c044df-4157-4816-9bab-94684c96e2d1",
+        "d7a0774c-e328-4f3e-9235-3a5ca6333a6d",
+        "a5709f81-77e7-44f2-9c7f-1f6c51229328"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "10.  Dimension Reduction & Metric Learning"
+        },
+        {
+          "type": "DESC",
+          "data": "降维与度量学习"
+        }
+      ]
+    },
+    {
+      "key": "8e1645ae-d318-44be-84e8-a0e2362c9f0b",
+      "parentKey": "6a9e1d16-2b9d-40b1-9cd4-c2bb1b601ac3",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "近似推断"
+        }
+      ]
+    },
+    {
+      "key": "ca1912c1-fd45-4a55-8a81-7abffc8f987b",
+      "parentKey": "6a9e1d16-2b9d-40b1-9cd4-c2bb1b601ac3",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "阅读材料"
+        }
+      ]
+    },
+    {
+      "key": "29c231d2-a220-4979-b7e8-7a356b5a876f",
+      "parentKey": "27c68b98-c522-4be2-8352-0fdb37afaf28",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "有限假设空间"
+        }
+      ]
+    },
+    {
+      "key": "7aece502-e735-48c1-9c5c-6fbb4ec74e76",
+      "parentKey": "d4c61bac-034a-439d-b4d0-8d80ba38c0c5",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "稀疏表示与字典学习"
+        }
+      ]
+    },
+    {
+      "key": "315b3e90-92a8-435d-ba38-776181f43f24",
+      "parentKey": "a88a28e6-4bd0-4a22-8429-63f92beeec9f",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "任务与奖赏"
+        }
+      ]
+    },
+    {
+      "key": "a1699291-9a00-4a0b-988b-ee75dcf1835e",
+      "parentKey": "804243ff-dce8-459d-9f88-ce7a78893867",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "连续与缺失值"
+        }
+      ]
+    },
+    {
+      "key": "413b1eac-bc0f-4f4c-9b91-504eee95daa7",
+      "parentKey": "b3e9e106-ecc1-4c0c-a2a3-5e3c74900b13",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": " 神经元模型"
+        }
+      ]
+    },
+    {
+      "key": "89efaf18-9030-438a-8cc8-56e68d5d031e",
+      "parentKey": "48409f63-9ea0-4a43-acb7-8021e3b6a4c0",
+      "subKeys": [
+        "14d4901f-3aad-4b60-b3e1-682b2b645b40",
+        "d43e619d-e95b-4c82-a9ea-dc915ccc81a6",
+        "89bc9256-4700-40bb-8caa-e3611f91706f",
+        "fa1e7677-2587-48b5-9623-7bf435a37852",
+        "9f28b143-1f2d-4db3-9c0c-a11d30b8d60b",
+        "4ccacb90-7ede-4062-9ec8-6d49d0c9ba5e",
+        "e52b31f8-c165-4b68-94c8-62c5fd83103e"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "9. Clustering"
+        },
+        {
+          "type": "DESC",
+          "data": "聚类"
+        }
+      ]
+    },
+    {
+      "key": "636b25ed-2986-40c8-9578-2fbb3ce52f26",
+      "parentKey": "804243ff-dce8-459d-9f88-ce7a78893867",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "剪枝处理"
+        }
+      ]
+    },
+    {
+      "key": "de1cb09f-57d1-4b91-9851-637c64da372f",
+      "parentKey": "13e91cd8-08d6-4762-91c6-e5ee0d9c927e",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "核函数"
+        }
+      ]
+    },
+    {
+      "key": "69b9cd40-e0d6-4614-804f-f588f1607576",
+      "parentKey": "d4c61bac-034a-439d-b4d0-8d80ba38c0c5",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "过滤式选择"
+        }
+      ]
+    },
+    {
+      "key": "e1f1ca6f-3698-4bb1-b281-82a75850d7e4",
+      "parentKey": "a88a28e6-4bd0-4a22-8429-63f92beeec9f",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "值函数近似"
+        }
+      ]
+    },
+    {
+      "key": "6c34c6f5-91fc-4dff-8a0e-b3f8de0753f7",
+      "parentKey": "0355d8db-9438-4e6b-a79f-55505ab5b957",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "评估方法"
+        }
+      ]
+    },
+    {
+      "key": "c8cd6779-bc0f-419f-85f8-6e5b7d5f67d3",
+      "parentKey": "f8dc10a8-0a53-4291-9b51-58edf1eea730",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "序贯覆盖"
+        }
+      ]
+    },
+    {
+      "key": "48ebdd48-f38d-4edf-8a59-5b618e660352",
+      "parentKey": "0355d8db-9438-4e6b-a79f-55505ab5b957",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "比较检验"
+        }
+      ]
+    },
+    {
+      "key": "c2c4b2ad-e677-4136-a3ea-de36ce4b79fd",
+      "parentKey": "0355d8db-9438-4e6b-a79f-55505ab5b957",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "性能度量"
+        }
+      ]
+    },
+    {
+      "key": "01961a7b-a297-4b10-a8a9-7d3a1bac1e86",
+      "parentKey": "3ee3b20b-a64f-4475-b508-dc197bdc141c",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "主成分分析"
+        }
+      ]
+    },
+    {
+      "key": "f8dc10a8-0a53-4291-9b51-58edf1eea730",
+      "parentKey": "48409f63-9ea0-4a43-acb7-8021e3b6a4c0",
+      "subKeys": [
+        "15b67191-ed2a-4d50-92a2-657fa8585ecc",
+        "c8cd6779-bc0f-419f-85f8-6e5b7d5f67d3",
+        "1aa1a1cc-90e7-4813-8035-786c983924fa",
+        "33c57602-a94d-4131-8d42-eaa6d892bcf5",
+        "eaa9a0fd-be20-46c9-9bd8-a2894033c0ef",
+        "c196af29-102e-44d3-8678-661da7c10f2d"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "15. Rule Learning"
+        },
+        {
+          "type": "DESC",
+          "data": "规则学习"
+        }
+      ]
+    },
+    {
+      "key": "cbb7dcd9-c02a-40da-982e-e66a1f2dfec7",
+      "parentKey": "d808a0c3-8684-46b2-9e37-df2d81b8dc70",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "半监督SVM"
+        }
+      ]
+    },
+    {
+      "key": "a81e1311-22dd-4be5-9b57-7b94bae8c301",
+      "parentKey": "d92e0d4a-afaa-406b-88ad-a04e939a1758",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "朴素贝叶斯分类器"
+        }
+      ]
+    },
+    {
+      "key": "89bc9256-4700-40bb-8caa-e3611f91706f",
+      "parentKey": "89efaf18-9030-438a-8cc8-56e68d5d031e",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "距离计算"
+        }
+      ]
+    },
+    {
+      "key": "40ad9855-8b88-4855-9443-3f06f97f4eaa",
+      "parentKey": "d4c61bac-034a-439d-b4d0-8d80ba38c0c5",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "嵌入式选择与L1正则化"
+        }
+      ]
+    },
+    {
+      "key": "b53fddd5-f029-46ed-9cce-ae602ac3ab3d",
+      "parentKey": "d4c61bac-034a-439d-b4d0-8d80ba38c0c5",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "子集搜索与评价"
+        }
+      ]
+    },
+    {
+      "key": "0ced7b00-ee89-4159-8793-07ad8772b41a",
+      "parentKey": "d808a0c3-8684-46b2-9e37-df2d81b8dc70",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "半监督聚类"
+        }
+      ]
+    },
+    {
+      "key": "044699ab-2d89-49fa-ac83-763800fbf339",
+      "parentKey": "01de61f9-c661-4a08-b727-719a50f65580",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "多分类学习"
+        }
+      ]
+    },
+    {
+      "key": "ac1b34db-8eab-4273-b9bc-348de2df7a64",
+      "parentKey": "27c68b98-c522-4be2-8352-0fdb37afaf28",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "PAC学习"
+        }
+      ]
+    },
+    {
+      "key": "33c57602-a94d-4131-8d42-eaa6d892bcf5",
+      "parentKey": "f8dc10a8-0a53-4291-9b51-58edf1eea730",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "一阶规则学习"
+        }
+      ]
+    },
+    {
+      "key": "839f9cd3-ebf8-4786-bb53-f63f68702b9a",
+      "parentKey": "01de61f9-c661-4a08-b727-719a50f65580",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "线性回归"
+        }
+      ]
+    },
+    {
+      "key": "65ab4192-e1e8-4095-9a7a-9d5c39b75c7c",
+      "parentKey": "d808a0c3-8684-46b2-9e37-df2d81b8dc70",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "生成式方法"
+        }
+      ]
+    },
+    {
+      "key": "13e91cd8-08d6-4762-91c6-e5ee0d9c927e",
+      "parentKey": "48409f63-9ea0-4a43-acb7-8021e3b6a4c0",
+      "subKeys": [
+        "32fdcbcf-5a27-4a68-9869-e7bf5e466bee",
+        "39621c2c-347d-4a5a-9cdb-d75a8d126bb3",
+        "de1cb09f-57d1-4b91-9851-637c64da372f",
+        "0b44273e-e804-41bc-9bd0-2de1d30ab1a4",
+        "f7454153-98de-4b80-9b66-5447834d3238",
+        "2816fa1b-ecfd-456f-8202-7e6d226aa45c",
+        "b536d576-4ae2-4e8f-8e43-399a9cb70e45"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "6.  Support Vector Machine"
+        },
+        {
+          "type": "DESC",
+          "data": "支持向量机"
+        }
+      ]
+    },
+    {
+      "key": "8214fd5c-375b-4f19-a1b5-f59643a22036",
+      "parentKey": "27c68b98-c522-4be2-8352-0fdb37afaf28",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Rademacher 复杂度"
+        }
+      ]
+    },
+    {
+      "key": "788e214b-8131-46a6-9d36-955b795368b7",
+      "parentKey": "a88a28e6-4bd0-4a22-8429-63f92beeec9f",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "K-摇臂赌博机"
+        }
+      ]
+    },
+    {
+      "key": "96ab2887-b9f7-440d-8158-0a7de7406d00",
+      "parentKey": "0355d8db-9438-4e6b-a79f-55505ab5b957",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "偏差与方差"
+        }
+      ]
+    },
+    {
+      "key": "996d4d3e-7a9a-4a23-b813-95d6df41fcd4",
+      "parentKey": "0355d8db-9438-4e6b-a79f-55505ab5b957",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "经验误差与过拟合"
+        }
+      ]
+    },
+    {
+      "key": "e656a0f1-cf71-42c0-913c-2ab5bd946993",
+      "parentKey": "d808a0c3-8684-46b2-9e37-df2d81b8dc70",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "图半监督学习"
+        }
+      ]
+    },
+    {
+      "key": "32fdcbcf-5a27-4a68-9869-e7bf5e466bee",
+      "parentKey": "13e91cd8-08d6-4762-91c6-e5ee0d9c927e",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "间隔与支持向量"
+        }
+      ]
+    },
+    {
+      "key": "4ece09c4-b887-48c9-829a-eb3b585feeba",
+      "parentKey": "01de61f9-c661-4a08-b727-719a50f65580",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "基本形式"
+        }
+      ]
+    },
+    {
+      "key": "4ccacb90-7ede-4062-9ec8-6d49d0c9ba5e",
+      "parentKey": "89efaf18-9030-438a-8cc8-56e68d5d031e",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "层次聚类"
+        }
+      ]
+    },
+    {
+      "key": "0c7c121a-401e-4008-af77-c07841aadd38",
+      "parentKey": "d4c61bac-034a-439d-b4d0-8d80ba38c0c5",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "包裹式选择"
+        }
+      ]
+    },
+    {
+      "key": "a4e81b53-eeeb-4ebb-b9ab-bad9a6dca656",
+      "parentKey": "6a9e1d16-2b9d-40b1-9cd4-c2bb1b601ac3",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "条件随机场"
+        }
+      ]
+    },
+    {
+      "key": "d43e619d-e95b-4c82-a9ea-dc915ccc81a6",
+      "parentKey": "89efaf18-9030-438a-8cc8-56e68d5d031e",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "性能度量"
+        }
+      ]
+    },
+    {
+      "key": "fa1e7677-2587-48b5-9623-7bf435a37852",
+      "parentKey": "89efaf18-9030-438a-8cc8-56e68d5d031e",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "原型聚类"
+        }
+      ]
+    },
+    {
+      "key": "b66abd6d-61b4-436d-b737-fb680ae58047",
+      "parentKey": "6a9e1d16-2b9d-40b1-9cd4-c2bb1b601ac3",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "话题模型"
+        }
+      ]
+    },
+    {
+      "key": "39f4d2e9-529f-4838-99c3-2c738868e6f1",
+      "parentKey": "804243ff-dce8-459d-9f88-ce7a78893867",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "其他"
+        }
+      ]
+    },
+    {
+      "key": "4a6c7694-3004-43c6-af74-d23277738606",
+      "parentKey": "27c68b98-c522-4be2-8352-0fdb37afaf28",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "稳定性"
+        }
+      ]
+    },
+    {
+      "key": "a0140ac2-61d9-4183-bbab-c0c7ce4db10f",
+      "parentKey": "16431b06-32f3-4a55-9c6c-e660469322d9",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "发展历程"
+        }
+      ]
+    },
+    {
+      "key": "ea66a404-7a34-4296-99c1-63d1a89fa2fc",
+      "parentKey": "25f972fd-d954-4fb5-8577-594a0dc0e22b",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "结合策略"
+        }
+      ]
+    },
+    {
+      "key": "f660268f-fb10-425d-81c1-469bfec0b511",
+      "parentKey": "0355d8db-9438-4e6b-a79f-55505ab5b957",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "其他"
+        }
+      ]
+    },
+    {
+      "key": "39621c2c-347d-4a5a-9cdb-d75a8d126bb3",
+      "parentKey": "13e91cd8-08d6-4762-91c6-e5ee0d9c927e",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "对偶问题"
+        }
+      ]
+    },
+    {
+      "key": "b6b274ad-3162-46bf-b4ac-6b0e046d24cd",
+      "parentKey": "01de61f9-c661-4a08-b727-719a50f65580",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "对数几率回归"
+        }
+      ]
+    },
+    {
+      "key": "a88a28e6-4bd0-4a22-8429-63f92beeec9f",
+      "parentKey": "48409f63-9ea0-4a43-acb7-8021e3b6a4c0",
+      "subKeys": [
+        "315b3e90-92a8-435d-ba38-776181f43f24",
+        "788e214b-8131-46a6-9d36-955b795368b7",
+        "7161d867-4ee5-494b-a919-972d97ecbc1d",
+        "84bb7997-bf4f-4930-8bda-5f8e215e9c24",
+        "e1f1ca6f-3698-4bb1-b281-82a75850d7e4",
+        "56d46e2f-c6bd-4434-a5df-2ea6287ec8ee",
+        "23318e79-fea0-4257-84a2-5ee7e9e7a50c"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "16. Reinforcement Learning"
+        },
+        {
+          "type": "DESC",
+          "data": "强化学习"
+        }
+      ]
+    },
+    {
+      "key": "c44e3574-f3a6-4551-9fcb-f8d6aa3bf874",
+      "parentKey": "d92e0d4a-afaa-406b-88ad-a04e939a1758",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "贝叶斯决策论"
+        }
+      ]
+    },
+    {
+      "key": "b3e9e106-ecc1-4c0c-a2a3-5e3c74900b13",
+      "parentKey": "48409f63-9ea0-4a43-acb7-8021e3b6a4c0",
+      "subKeys": [
+        "413b1eac-bc0f-4f4c-9b91-504eee95daa7",
+        "db4386ff-d7f7-45f2-b666-628b26b5694c",
+        "b8dec9ce-dc4c-459b-8bab-3b3bb1dd07b2",
+        "e886dc49-1840-47aa-8c91-e4bf5317057e",
+        "df8a0ba9-8099-40ff-a89c-7acd33cfee50",
+        "f1f0f0a6-7265-4dbe-9737-17721c8fbc4e",
+        "71a62dfa-a84c-44d9-a90f-e7baba26b2ce"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "5.  Neural Network"
+        },
+        {
+          "type": "DESC",
+          "data": "神经网络"
+        }
+      ]
+    },
+    {
+      "key": "a5709f81-77e7-44f2-9c7f-1f6c51229328",
+      "parentKey": "3ee3b20b-a64f-4475-b508-dc197bdc141c",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "阅读材料"
+        }
+      ]
+    },
+    {
+      "key": "25f972fd-d954-4fb5-8577-594a0dc0e22b",
+      "parentKey": "48409f63-9ea0-4a43-acb7-8021e3b6a4c0",
+      "subKeys": [
+        "feab1563-2825-441d-b8e9-4093e829e235",
+        "8d59c651-520a-4ff0-8a35-4af2941edac1",
+        "0aa1e71f-be08-45e1-b67f-96adb442d59c",
+        "ea66a404-7a34-4296-99c1-63d1a89fa2fc",
+        "2b919b95-4384-4186-a8f0-9fb61908dbda",
+        "68a76541-1d35-4c18-ae2b-1bf1a7347a81"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "8. Integrated Learning"
+        },
+        {
+          "type": "DESC",
+          "data": "集成学习"
+        }
+      ]
+    },
+    {
+      "key": "1e46e78e-30f7-46ef-b8bd-4155cde1f05a",
+      "parentKey": "d92e0d4a-afaa-406b-88ad-a04e939a1758",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "贝叶斯网"
+        }
+      ]
+    },
+    {
+      "key": "0aa1e71f-be08-45e1-b67f-96adb442d59c",
+      "parentKey": "25f972fd-d954-4fb5-8577-594a0dc0e22b",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Bagging与随机森林"
+        }
+      ]
+    },
+    {
+      "key": "d7a0774c-e328-4f3e-9235-3a5ca6333a6d",
+      "parentKey": "3ee3b20b-a64f-4475-b508-dc197bdc141c",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "度量学习"
+        }
+      ]
+    },
+    {
+      "key": "58652bab-bd20-48de-8c73-8ff54d89a126",
+      "parentKey": "804243ff-dce8-459d-9f88-ce7a78893867",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "基本流程"
+        }
+      ]
+    },
+    {
+      "key": "5b624426-4094-49d9-97b6-c811f7c04c0d",
+      "parentKey": "d808a0c3-8684-46b2-9e37-df2d81b8dc70",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "基于分歧的方法"
+        }
+      ]
+    },
+    {
+      "key": "d92e0d4a-afaa-406b-88ad-a04e939a1758",
+      "parentKey": "48409f63-9ea0-4a43-acb7-8021e3b6a4c0",
+      "subKeys": [
+        "c44e3574-f3a6-4551-9fcb-f8d6aa3bf874",
+        "af3d7c77-83e8-4f02-9d2f-1363a2837817",
+        "a81e1311-22dd-4be5-9b57-7b94bae8c301",
+        "df592dec-0bd3-4320-9de9-46400522827a",
+        "1e46e78e-30f7-46ef-b8bd-4155cde1f05a",
+        "8ebf482f-0164-42d7-8f5d-a2a656735a7f",
+        "549fe0ca-0ea7-459e-ab64-385037db69dd"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "7.  Bayesian Classifier"
+        },
+        {
+          "type": "DESC",
+          "data": "贝叶斯分类器"
+        }
+      ]
+    },
+    {
+      "key": "ab86be03-e6c1-4e49-9389-b80ecc921d40",
+      "parentKey": "01de61f9-c661-4a08-b727-719a50f65580",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "线性判别分析"
+        }
+      ]
+    },
+    {
+      "key": "c196af29-102e-44d3-8678-661da7c10f2d",
+      "parentKey": "f8dc10a8-0a53-4291-9b51-58edf1eea730",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "阅读材料"
+        }
+      ]
+    },
+    {
+      "key": "6acaf780-6971-4c4f-bdfc-71d55027b477",
+      "parentKey": "27c68b98-c522-4be2-8352-0fdb37afaf28",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "基础知识"
+        }
+      ]
+    },
+    {
+      "key": "7d6de599-9279-4d64-aa0d-9f1d92e6affa",
+      "parentKey": "16431b06-32f3-4a55-9c6c-e660469322d9",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "假设空间"
+        }
+      ]
+    },
+    {
+      "key": "8d59c651-520a-4ff0-8a35-4af2941edac1",
+      "parentKey": "25f972fd-d954-4fb5-8577-594a0dc0e22b",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Boosting"
+        }
+      ]
+    },
+    {
+      "key": "68bac692-8dfb-4bfd-b104-bcfe0d0adef7",
+      "parentKey": "3ee3b20b-a64f-4475-b508-dc197bdc141c",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "K邻近学习"
+        }
+      ]
+    },
+    {
+      "key": "15b67191-ed2a-4d50-92a2-657fa8585ecc",
+      "parentKey": "f8dc10a8-0a53-4291-9b51-58edf1eea730",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "基本概念"
+        }
+      ]
+    },
+    {
+      "key": "f05a22a1-c74e-4e4e-b987-27c78f583b6e",
+      "parentKey": "3ee3b20b-a64f-4475-b508-dc197bdc141c",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "归纳偏好"
+        }
+      ]
+    },
+    {
+      "key": "804243ff-dce8-459d-9f88-ce7a78893867",
+      "parentKey": "48409f63-9ea0-4a43-acb7-8021e3b6a4c0",
+      "subKeys": [
+        "58652bab-bd20-48de-8c73-8ff54d89a126",
+        "c56f48d9-e27b-4806-84c6-e24ff1e47bed",
+        "636b25ed-2986-40c8-9578-2fbb3ce52f26",
+        "a1699291-9a00-4a0b-988b-ee75dcf1835e",
+        "baf44da6-0964-4067-b14d-1159f480c3ed",
+        "39f4d2e9-529f-4838-99c3-2c738868e6f1"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "4.  Decision Tree"
+        },
+        {
+          "type": "DESC",
+          "data": "决策树"
+        }
+      ]
+    },
+    {
+      "key": "f85113d4-c5dd-4b8b-9dfe-c03747af2be6",
+      "parentKey": "6a9e1d16-2b9d-40b1-9cd4-c2bb1b601ac3",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "条件与推断"
+        }
+      ]
+    },
+    {
+      "key": "68a76541-1d35-4c18-ae2b-1bf1a7347a81",
+      "parentKey": "25f972fd-d954-4fb5-8577-594a0dc0e22b",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "阅读材料"
+        }
+      ]
+    },
+    {
+      "key": "330aec2a-8643-4aa7-86b6-c586225a93c2",
+      "parentKey": "d4c61bac-034a-439d-b4d0-8d80ba38c0c5",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "阅读材料"
+        }
+      ]
+    },
+    {
+      "key": "eaa9a0fd-be20-46c9-9bd8-a2894033c0ef",
+      "parentKey": "f8dc10a8-0a53-4291-9b51-58edf1eea730",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "归纳逻辑程序设计"
+        }
+      ]
+    },
+    {
+      "key": "49c044df-4157-4816-9bab-94684c96e2d1",
+      "parentKey": "3ee3b20b-a64f-4475-b508-dc197bdc141c",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "流形学习"
+        }
+      ]
+    },
+    {
+      "key": "9f28b143-1f2d-4db3-9c0c-a11d30b8d60b",
+      "parentKey": "89efaf18-9030-438a-8cc8-56e68d5d031e",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "密度聚类"
+        }
+      ]
+    },
+    {
+      "key": "2816fa1b-ecfd-456f-8202-7e6d226aa45c",
+      "parentKey": "13e91cd8-08d6-4762-91c6-e5ee0d9c927e",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "核方法"
+        }
+      ]
+    },
+    {
+      "key": "2b919b95-4384-4186-a8f0-9fb61908dbda",
+      "parentKey": "25f972fd-d954-4fb5-8577-594a0dc0e22b",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "多样性"
+        }
+      ]
+    },
+    {
+      "key": "d4c61bac-034a-439d-b4d0-8d80ba38c0c5",
+      "parentKey": "48409f63-9ea0-4a43-acb7-8021e3b6a4c0",
+      "subKeys": [
+        "b53fddd5-f029-46ed-9cce-ae602ac3ab3d",
+        "69b9cd40-e0d6-4614-804f-f588f1607576",
+        "0c7c121a-401e-4008-af77-c07841aadd38",
+        "40ad9855-8b88-4855-9443-3f06f97f4eaa",
+        "7aece502-e735-48c1-9c5c-6fbb4ec74e76",
+        "b2dcdb2e-9754-43fd-891d-12c3537fb513",
+        "330aec2a-8643-4aa7-86b6-c586225a93c2"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "11. Feature Selection and Sparse Learning"
+        },
+        {
+          "type": "DESC",
+          "data": "特征选择与稀疏学习"
+        }
+      ]
+    },
+    {
+      "key": "75b68344-4560-4d3c-a1be-771e0ef4b10e",
+      "parentKey": "6a9e1d16-2b9d-40b1-9cd4-c2bb1b601ac3",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "马尔可夫随机场"
+        }
+      ]
+    },
+    {
+      "key": "84bb7997-bf4f-4930-8bda-5f8e215e9c24",
+      "parentKey": "a88a28e6-4bd0-4a22-8429-63f92beeec9f",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "免模型学习"
+        }
+      ]
+    },
+    {
+      "key": "df592dec-0bd3-4320-9de9-46400522827a",
+      "parentKey": "d92e0d4a-afaa-406b-88ad-a04e939a1758",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "半朴素贝叶斯分类器"
+        }
+      ]
+    },
+    {
+      "key": "27c68b98-c522-4be2-8352-0fdb37afaf28",
+      "parentKey": "48409f63-9ea0-4a43-acb7-8021e3b6a4c0",
+      "subKeys": [
+        "6acaf780-6971-4c4f-bdfc-71d55027b477",
+        "ac1b34db-8eab-4273-b9bc-348de2df7a64",
+        "29c231d2-a220-4979-b7e8-7a356b5a876f",
+        "55f5a6e7-d89a-4e2e-93ca-f399f73254ab",
+        "8214fd5c-375b-4f19-a1b5-f59643a22036",
+        "4a6c7694-3004-43c6-af74-d23277738606",
+        "c1b97b53-41b7-42b3-a6e4-aec97ea3ee74"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "12. Machine Learning Theory"
+        },
+        {
+          "type": "DESC",
+          "data": "机器学习理论"
+        }
+      ]
+    },
+    {
+      "key": "0b44273e-e804-41bc-9bd0-2de1d30ab1a4",
+      "parentKey": "13e91cd8-08d6-4762-91c6-e5ee0d9c927e",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "软间隔与正则化"
+        }
+      ]
+    },
+    {
+      "key": "56d46e2f-c6bd-4434-a5df-2ea6287ec8ee",
+      "parentKey": "a88a28e6-4bd0-4a22-8429-63f92beeec9f",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "模仿学习"
+        }
+      ]
+    },
+    {
+      "key": "e52b31f8-c165-4b68-94c8-62c5fd83103e",
+      "parentKey": "89efaf18-9030-438a-8cc8-56e68d5d031e",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "阅读材料"
+        }
+      ]
+    },
+    {
+      "key": "af3d7c77-83e8-4f02-9d2f-1363a2837817",
+      "parentKey": "d92e0d4a-afaa-406b-88ad-a04e939a1758",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "极大似然估计"
+        }
+      ]
+    },
+    {
+      "key": "f7454153-98de-4b80-9b66-5447834d3238",
+      "parentKey": "13e91cd8-08d6-4762-91c6-e5ee0d9c927e",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "支持向量回归"
+        }
+      ]
+    },
+    {
+      "key": "8ebf482f-0164-42d7-8f5d-a2a656735a7f",
+      "parentKey": "d92e0d4a-afaa-406b-88ad-a04e939a1758",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "EM算法"
+        }
+      ]
+    },
+    {
+      "key": "e886dc49-1840-47aa-8c91-e4bf5317057e",
+      "parentKey": "b3e9e106-ecc1-4c0c-a2a3-5e3c74900b13",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "全局最小与局部最小"
+        }
+      ]
+    },
+    {
+      "key": "7161d867-4ee5-494b-a919-972d97ecbc1d",
+      "parentKey": "a88a28e6-4bd0-4a22-8429-63f92beeec9f",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "有模型学习"
+        }
+      ]
+    },
+    {
+      "key": "48409f63-9ea0-4a43-acb7-8021e3b6a4c0",
+      "parentKey": null,
+      "subKeys": [
+        "16431b06-32f3-4a55-9c6c-e660469322d9",
+        "0355d8db-9438-4e6b-a79f-55505ab5b957",
+        "01de61f9-c661-4a08-b727-719a50f65580",
+        "804243ff-dce8-459d-9f88-ce7a78893867",
+        "b3e9e106-ecc1-4c0c-a2a3-5e3c74900b13",
+        "13e91cd8-08d6-4762-91c6-e5ee0d9c927e",
+        "d92e0d4a-afaa-406b-88ad-a04e939a1758",
+        "25f972fd-d954-4fb5-8577-594a0dc0e22b",
+        "89efaf18-9030-438a-8cc8-56e68d5d031e",
+        "3ee3b20b-a64f-4475-b508-dc197bdc141c",
+        "d4c61bac-034a-439d-b4d0-8d80ba38c0c5",
+        "27c68b98-c522-4be2-8352-0fdb37afaf28",
+        "d808a0c3-8684-46b2-9e37-df2d81b8dc70",
+        "6a9e1d16-2b9d-40b1-9cd4-c2bb1b601ac3",
+        "f8dc10a8-0a53-4291-9b51-58edf1eea730",
+        "a88a28e6-4bd0-4a22-8429-63f92beeec9f"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "MachineLearning"
+        }
+      ]
+    },
+    {
+      "key": "549fe0ca-0ea7-459e-ab64-385037db69dd",
+      "parentKey": "d92e0d4a-afaa-406b-88ad-a04e939a1758",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "阅读材料"
+        }
+      ]
+    },
+    {
+      "key": "0531603a-7f79-4bce-b84c-6ffc4c863ae6",
+      "parentKey": "01de61f9-c661-4a08-b727-719a50f65580",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "其他"
+        }
+      ]
+    },
+    {
+      "key": "e03a66f9-3be3-466b-a36f-bb4436007bb7",
+      "parentKey": "16431b06-32f3-4a55-9c6c-e660469322d9",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "归纳偏好"
+        }
+      ]
+    },
+    {
+      "key": "c1b97b53-41b7-42b3-a6e4-aec97ea3ee74",
+      "parentKey": "27c68b98-c522-4be2-8352-0fdb37afaf28",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "阅读材料"
+        }
+      ]
+    },
+    {
+      "key": "d808a0c3-8684-46b2-9e37-df2d81b8dc70",
+      "parentKey": "48409f63-9ea0-4a43-acb7-8021e3b6a4c0",
+      "subKeys": [
+        "9f138de9-d64b-4405-a7ea-01c71924f7f6",
+        "65ab4192-e1e8-4095-9a7a-9d5c39b75c7c",
+        "cbb7dcd9-c02a-40da-982e-e66a1f2dfec7",
+        "e656a0f1-cf71-42c0-913c-2ab5bd946993",
+        "5b624426-4094-49d9-97b6-c811f7c04c0d",
+        "0ced7b00-ee89-4159-8793-07ad8772b41a",
+        "1cf803d9-ea61-4b68-8d79-362da44a20ae"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "13. Semi Supervised Learning"
+        },
+        {
+          "type": "DESC",
+          "data": "半监督学习"
+        }
+      ]
+    },
+    {
+      "key": "36d8c955-1173-46da-9c36-c1cdc2a10afb",
+      "parentKey": "3ee3b20b-a64f-4475-b508-dc197bdc141c",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "低纬嵌入"
+        }
+      ]
+    },
+    {
+      "key": "1cf803d9-ea61-4b68-8d79-362da44a20ae",
+      "parentKey": "d808a0c3-8684-46b2-9e37-df2d81b8dc70",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "阅读材料"
+        }
+      ]
+    },
+    {
+      "key": "f1f0f0a6-7265-4dbe-9737-17721c8fbc4e",
+      "parentKey": "b3e9e106-ecc1-4c0c-a2a3-5e3c74900b13",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "深度学习"
+        }
+      ]
+    },
+    {
+      "key": "b2dcdb2e-9754-43fd-891d-12c3537fb513",
+      "parentKey": "d4c61bac-034a-439d-b4d0-8d80ba38c0c5",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "压缩感知"
+        }
+      ]
+    },
+    {
+      "key": "db4386ff-d7f7-45f2-b666-628b26b5694c",
+      "parentKey": "b3e9e106-ecc1-4c0c-a2a3-5e3c74900b13",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "感知机与多层网络"
+        }
+      ]
+    },
+    {
+      "key": "6a9e1d16-2b9d-40b1-9cd4-c2bb1b601ac3",
+      "parentKey": "48409f63-9ea0-4a43-acb7-8021e3b6a4c0",
+      "subKeys": [
+        "b3281230-688c-4070-877d-3ddf0558f9de",
+        "75b68344-4560-4d3c-a1be-771e0ef4b10e",
+        "a4e81b53-eeeb-4ebb-b9ab-bad9a6dca656",
+        "f85113d4-c5dd-4b8b-9dfe-c03747af2be6",
+        "8e1645ae-d318-44be-84e8-a0e2362c9f0b",
+        "b66abd6d-61b4-436d-b737-fb680ae58047",
+        "ca1912c1-fd45-4a55-8a81-7abffc8f987b"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "14. Probability Graph Model"
+        },
+        {
+          "type": "DESC",
+          "data": "概率图模型"
+        }
+      ]
+    }
+  ],
+  "config": {
+    "readOnly": false,
+    "allowUndo": true,
+    "layoutDir": 0,
+    "theme": {
+      "name": "default",
+      "randomColor": true,
+      "background": "rgb(57,60,65)",
+      "highlightColor": "#50C9CE",
+      "marginH": 60,
+      "marginV": 20,
+      "contentStyle": {
+        "lineHeight": "1.5",
+        "fontSize": "16px"
+      },
+      "linkStyle": {
+        "lineRadius": 5,
+        "lineType": "curve",
+        "lineWidth": "3px"
+      },
+      "rootTopic": {
+        "contentStyle": {
+          "fontSize": "36px"
+        },
+        "subLinkStyle": {
+          "lineType": "curve",
+          "lineWidth": "3px"
+        }
+      },
+      "primaryTopic": {
+        "contentStyle": {
+          "fontSize": "24px"
+        },
+        "subLinkStyle": {
+          "lineType": "curve",
+          "lineWidth": "3px"
+        }
+      },
+      "normalTopic": {
+        "subLinkStyle": {
+          "lineType": "curve",
+          "lineWidth": "3px"
+        }
+      }
+    }
+  },
+  "formatVersion": "0.0"
+}
